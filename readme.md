@@ -155,3 +155,18 @@ sedscripts get_kv --strict key1 "-->" "give some fallback value" weird.weird
 # output : value1
 ```
 
+## Installation - In Arch System
+
+**clone this repository**
+```
+git clone https://github.com/rdbhvr-001/sedscripts.git rdbhvr-sedscripts && cd rdbhvr-sedscripts
+```
+
+**install using makepkg**
+
+```
+makepkg -si
+```
+
+You are now ready to use the blazing fast `sedscripts`
+
