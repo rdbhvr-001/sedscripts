@@ -1,5 +1,5 @@
 pkgname=sedscripts
-pkgver=1.0.0
+pkgver=0.1.0
 pkgrel=1
 pkgdesc="Key-value helpers built around sed"
 arch=('any')
