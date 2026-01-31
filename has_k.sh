@@ -59,4 +59,4 @@ has_k() {
   ' "$file"
 }
 
-has_k "$@"
+#has_k "$@"
