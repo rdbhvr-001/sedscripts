@@ -1,0 +1,15 @@
+pkgbase = sedscripts
+	pkgdesc = Key-value helpers built around sed
+	pkgver = 0.1.1
+	pkgrel = 1
+	url = https://github.com/rdbhvr-001/sedscripts
+	arch = any
+	license = MIT
+	depends = bash
+	depends = sed
+	depends = awk
+	depends = grep
+	source = sedscripts-0.1.1.tar.gz::https://github.com/rdbhvr-001/sedscripts/archive/v0.1.1.tar.gz
+	sha256sums = SKIP
+
+pkgname = sedscripts
